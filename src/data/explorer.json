@@ -1,0 +1,46 @@
+{
+    "id": 1,
+    "name": "root",
+    "isFolder": true,
+    "items": [
+        {
+            "id": 2,
+            "name": "public",
+            "isFolder": true,
+            "items": [
+                {
+                    "id": 3,
+                    "name": "index.html",
+                    "isFolder": false
+                },
+                {
+                    "id": 4,
+                    "name": "siteImg.jpg",
+                    "isFolder": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "src",
+            "isFolder": true,
+            "items": [
+                {
+                    "id": 6,
+                    "name": "index.js",
+                    "isFolder": false
+                },
+                {
+                    "id": 7,
+                    "name": "user.js",
+                    "isFolder": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "README.md",
+            "isFolder": false
+        }  
+    ]
+}
