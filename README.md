@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with File Explorer Machine Coding
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and contains the code for machine coding for file explorer
 
 ## Available Scripts
 
